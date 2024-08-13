@@ -1,2 +1,2 @@
-Checking pull request
-received pull request
+message from remote Checking pull request
+message from local repo received pull request
